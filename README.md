@@ -77,5 +77,5 @@ String converts the LinuxVersion to a readable string
 
 ## License
 
-The GPL v3 License (GPLv3) - see [`LICENSE.md`](https://github.com/mosalter/blob/master/LICENSE.md) for more details
+The GPL v3 License (GPLv3) - see [`LICENSE.md`](https://github.com/mosalter/linuxver/blob/master/LICENSE.md) for more details
 
